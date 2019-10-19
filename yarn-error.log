@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\Yarn\bin\yarn.js add express
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Windows Resource Kits\Tools\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Python34;C:\Python34\Scripts;C:\Users\USER\Anaconda3;C:\Users\USER\Anaconda3\Scripts;C:\Program Files\IBM\Cloud\bin;C:\Program Files\Git\cmd;C:\Program Files\Yarn\bin\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\rafa\Anaconda3;C:\Users\rafa\Anaconda3\Library\mingw-w64\bin;C:\Users\rafa\Anaconda3\Library\usr\bin;C:\Users\rafa\Anaconda3\Library\bin;C:\Users\rafa\Anaconda3\Scripts;C:\Users\rafa\AppData\Local\Yarn\bin;C:\Users\rafa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rafa\AppData\Roaming\npm
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  12.12.0
+
+Platform: 
+  win32 ia32
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+npm manifest: 
+  {
+    "name": "modulo01",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
