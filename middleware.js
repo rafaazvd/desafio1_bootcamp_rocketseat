@@ -2,7 +2,7 @@ let contador = 0;
 function contt(req, res, next) {
   contador++;
 
-  console.log(`Número de requisições: ${contador}`);
+  console.log(`Número de requisições é: ${contador}`);
 
   return next();
 }
